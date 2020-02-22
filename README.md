@@ -8,7 +8,9 @@ Serverless journal application where a user can pen down their thoughts, feeling
 - The application allows users to upload a file. 
 - The application only displays items/Diaries for a logged in user.
 - A user needs to authenticate in order to use an application
+![home](https://github.com/rpuggian/cloud-developer-capstone/blob/master/screenshots/home.png)
 
+![post](https://github.com/rpuggian/cloud-developer-capstone/blob/master/screenshots/post.png)
 ## Codebase
 
 - The code is split into multiple layers separating business logic from I/O related code.
